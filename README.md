@@ -1,1 +1,5 @@
-# prod-hw
+# Usage
+
+```
+python3 main.py
+```
