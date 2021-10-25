@@ -1,11 +1,16 @@
 # Usage
 
+## Environment setup
+
 ```
-python3 main.py
+conda env create --name envname --file=environment.yml
+```
+## Train models in notebook
+
+```
+jupyter notebook
 ```
 
-# Requiremets
+# Behaviour
 
-* python3.8
-* scipy
-* numpy
+Sample trajectory can be found in ```out.gif```
